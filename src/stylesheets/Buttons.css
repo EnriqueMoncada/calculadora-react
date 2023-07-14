@@ -1,0 +1,22 @@
+.button-container {
+ height: 83px;
+ display: flex;
+ flex: 1 1;
+ justify-content: center;
+ align-items: center;
+ font-weight: bold;
+ font-size: 38px;
+ background-color: #2f2f2f;
+ color: white;
+ border-radius: 25px;
+ border: 2px solid black;
+ margin: 4px;
+ cursor: pointer;
+ user-select: none;
+ transition: 1s;
+}
+
+.operator {
+ background-color: #2f2f2f;
+ transition: 1s;
+}
